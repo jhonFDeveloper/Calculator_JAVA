@@ -1,4 +1,5 @@
 # Calculator_JAVA
 
+Es una calculadura básica donde puedes sumar,restar,dividir y multiplicar.
 
-abirir con eclipse y darle en ejecutar programa.
+Abrir con eclipse y ejecutar dentro de este.
